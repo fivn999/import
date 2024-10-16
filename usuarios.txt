@@ -1,0 +1,4 @@
+
+Item: nome: joao | Último item: idade: 15
+Item: nome: maria | Último item: idade: 20
+Item: nome: pedro | Último item: idade: 27
